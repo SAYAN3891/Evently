@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Event photo unavailable">
+  <rect width="1200" height="800" fill="#eeecf5"/>
+  <path d="M0 590 290 335l185 158 196-230 278 327 123-108 128 118v200H0z" fill="#d9d4e8"/>
+  <circle cx="850" cy="210" r="72" fill="#ded8ee"/>
+  <path d="M0 655h1200v145H0z" fill="#e4e0ed"/>
+  <g fill="#8073ad" font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="730" font-size="27" letter-spacing="3">EVENT PHOTO UNAVAILABLE</text>
+  </g>
+</svg>
